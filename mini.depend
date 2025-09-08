@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1757314177 source:c:\users\taha ihmadi\onedrive\bureau\mini\functions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"functions.h"
+
+1757314177 c:\users\taha ihmadi\onedrive\bureau\mini\functions.h
+
+1757314222 source:c:\users\taha ihmadi\onedrive\bureau\mini\main.c
+	<stdio.h>
+	"functions.h"
+
