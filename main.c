@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include "functions.h"
 
 int main() {
     int ch;
-    do { // use the do-while loop to run this program at least once
+    do { // using the do-while loop to run this program at least once
         Menu();
         scanf("%d%*c", &ch);
         switch (ch) {
